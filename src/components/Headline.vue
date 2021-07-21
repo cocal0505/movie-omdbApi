@@ -37,7 +37,7 @@
         h1{
           line-height: 1;
           font-family: "Oswald";
-          font-size:80px;
+          font-size:60px;
           span{
             color:$yellow;
           }
@@ -48,8 +48,4 @@
         }
       }
     }
-  
-  
-    
- 
 </style>
